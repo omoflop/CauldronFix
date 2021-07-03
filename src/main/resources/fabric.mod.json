@@ -1,16 +1,17 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "cauldronfix",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Cauldron Fix",
+  "description": "Allows dispensers with buckets to interact with cauldrons",
   "authors": [
-    "Me!"
+    "omoflop"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://modrinth.com/mod/cauldron-fix",
+    "sources": "https://github.com/Sconed/CauldronFix",
+    "issues": "https://github.com/Sconed/CauldronFix/issues"
   },
 
   "license": "CC0-1.0",
